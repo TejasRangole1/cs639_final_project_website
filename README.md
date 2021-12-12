@@ -1,4 +1,4 @@
-## Hello World
+## Automatic Greyscale to Color Conversion
 
 You can use the [editor on GitHub](https://github.com/TejasRangole1/cs639_final_project_website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
